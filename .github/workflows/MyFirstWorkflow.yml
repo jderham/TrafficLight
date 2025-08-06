@@ -37,6 +37,6 @@ jobs:
 
       - name: BuildIt
         run: |
-          npm run build
-          npm run start
+          #npm run build
+          #npm run start
 
